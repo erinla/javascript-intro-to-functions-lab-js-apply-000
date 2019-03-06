@@ -15,7 +15,7 @@ function sayHiToGrandma(string) {
   var uppercase = "YES INDEED!"
   var love = "I love you, too."
   if (lowercase.toLowerCase() === lowercase) {
-    return hear
+    return lowercase
   }
   else if (uppercase.toUpperCase() === uppercase) {
     return uppercase
