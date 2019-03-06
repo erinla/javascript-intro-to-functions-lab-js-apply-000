@@ -14,10 +14,10 @@ function sayHiToGrandma(string) {
   var hear = "I can't hear you!"
   var indeed = "YES INDEED!"
   var love = "I love you, too."
-  if (string.toLowerCase() === lowercase) {
+  if (hear.toLowerCase() === lowercase) {
     return hear
   }
-  else if (string.toUpperCase() === uppercase) {
+  else if (indeed.toUpperCase() === uppercase) {
     return indeed
   }
   else if (string === "I love you, Grandma.") {
